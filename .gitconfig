@@ -1,0 +1,7 @@
+[user]
+	name = rajesh sudula
+	email = rajeshssudula@gmail.com
+[color]
+	ui = true
+[core]
+	editor = /usr/bin/vi
